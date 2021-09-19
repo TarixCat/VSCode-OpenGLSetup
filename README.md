@@ -1,6 +1,9 @@
 # C++ & OpenGL VSCode Setup
 Thank you for visiting the page for my C++ & OpenGL visual studio code project setup. As the title says this is a setup, there is nothing special about this project other than that you can use it to have a base in OpenGL programming.
 
+## TarixCat's Note
+Thanks to Guylian Gilsing for creating this template. This template has been updated to work with mingw-w64 and 64 bit libraries. It is highly advised you check that the MingW type and version are compatible with libraries that you are including. If in doubt that this modified template will work with your install, do check the original template and fork it.
+
 **Warning:** this readme file does assume that you have some experience with Visual Studio Code, g++ and OpenGL programming.
 
 ## Table of contents
